@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code for an ESP32 microcontroller . The project is designed for the Surveillance Bird found at https://www.lampysecurity.com/. The complete guide can be found at the link provided.
+This repository contains the code for an ESP32 microcontroller . The project is designed for the Surveillance Bird found at https://www.lampysecurity.com/post/birds-aren-t-real-how-to-create-your-own-bird. The complete guide can be found at the link provided.
 
 ## Contents
 
